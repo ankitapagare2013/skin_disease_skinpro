@@ -42,7 +42,7 @@ The project integrates the following technologies:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/B14-Group5/B14-Projects.git
-   cd B14-Projects
+   cd B14-PROJECTS
    ```
 2. **Install Dependencies**
     ```bash
@@ -50,7 +50,7 @@ The project integrates the following technologies:
     ```
 3. **Download the model file**<br>
     - Download the model file from here: [Drive link](https://drive.google.com/file/d/1A0enE-Pr3FTtKsDgIe8igURmpxaWHZ8K/view?usp=drive_link)
-    - Paste this file inside the `B14-Projects/sample/` directory
+    - Paste this file inside the `B14-PROJECTS/sample/` directory
 4. **Run Migrations**
     ```bash
     cd sample
