@@ -51,7 +51,7 @@ The project integrates the following technologies:
     ```
 3. **Download the model file**<br>
     - Download the model file from here: [Drive link](https://drive.google.com/file/d/1A0enE-Pr3FTtKsDgIe8igURmpxaWHZ8K/view?usp=drive_link)
-    - Paste this file inside the `skin_disease_skinpro/B14-PROJECTS/sample/` directory
+    - Paste this file inside the `https://github.com/ankitapagare2013/skin_disease_skinpro/tree/main/B14_PROJECTS/sample` directory
 4. **Run Migrations**
     ```bash
     cd sample
